@@ -1,0 +1,7 @@
+.setting {
+  display: flex;
+  width: 100%;
+}
+.setting .settingContainer {
+  flex: 6;
+}
